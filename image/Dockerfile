@@ -1,4 +1,4 @@
-FROM osixia/web-baseimage:1.1.1
+FROM jmreicha/web-baseimage:1.1.1-arm64
 
 # phpLDAPadmin version
 ARG PHPLDAPADMIN_VERSION=1.2.3
